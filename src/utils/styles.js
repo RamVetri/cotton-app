@@ -1,0 +1,25 @@
+export const Colors = {
+  button:'#00695C',
+  white: '#FFFFFF',
+  black: '#000000',
+  disabled: '#94b6b2',
+  error: '#DA291C',
+  primary: '#333B8B',
+  deepLightGray: '#DFDFDF',
+  gray: '#AAAAAA',
+  lightGray: '#F7F6FA',
+  darkGray: '#605E5F',
+  deepDarkGray: '#434343',
+  secondary: '#DF912F',
+
+  default: '#212240',
+  active: '#343B8B',
+  charcoal: '#434343',
+  inactive:  'rgba(223, 145, 47, 0.5)',
+  mute: '#DEDEDE',
+  disabledText: 'rgba(255, 255, 255, 0.5)',
+  ghostWhile: '#F7F6FB',
+  // success:'#00695C',
+  // '#1B5E20','#00695C',
+  //"#fb5b5a"
+}
